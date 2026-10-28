@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /brief-marca.md
+Disallow: /README.md
+Disallow: /prompts-imagenes.md
+Sitemap: https://www.homefrog.cl/sitemap.xml
